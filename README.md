@@ -2,7 +2,10 @@
 
 ### A "mobile" manual for new Tarot readers to learn about 78 Tarot cards anywhere, anytime.
 <br/>
-<img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width=300>
+
+<p align="center">
+  <img src="android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width=300>
+</p>
 
 
 ## A complete collection of the Rider Waite Tarot Deck
